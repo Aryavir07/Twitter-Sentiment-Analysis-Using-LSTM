@@ -1,6 +1,6 @@
 # Twitter-Sentiment-Analysis-Using-LSTM and Gensim
 In this notebook, I have implemented Stacked LSTM with embedding to analyse 1.6Million tweets which is divided into three categories 1. Positive 2. Negative 3. Neutral, made model to predict class of new tweets with accuracy of 78 percent.
-Accuracy can be improved further more if trained on more number of epoch and batches.
+
 
 
 ## Final results after deployment
