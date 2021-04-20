@@ -32,7 +32,5 @@ In this notebook, I have implemented Stacked LSTM with embedding to analyse 1.6M
 
 ## Datasets
 - Stanford's GloVe 100d word embeddings : https://www.kaggle.com/danielwillgeorge/glove6b100dtxt/tasks
-- Sentiment140 dataset with 1.6 million tweets : https://www.kaggle.com/kazanova/sentiment140
-
 ## Paper :
 https://www.academia.edu/35947062/Twitter_Sentiment_Analysis_using_combined_LSTM_CNN_Models
